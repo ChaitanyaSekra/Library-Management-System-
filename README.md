@@ -1,6 +1,6 @@
 # Library-Management-System-
 # Library Database System
-
+ 
 This repository contains a SQL database system for managing a library's operations, including user information, book inventory, circulation records, and fines.
 
 ## Database Schema
